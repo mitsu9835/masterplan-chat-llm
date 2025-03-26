@@ -1,5 +1,4 @@
-# Task : 
-# Chat Summarization and Insights API
+# Task : Chat Summarization and Insights API
 
 ## Problem Description
 Build a FastAPI-based REST API that processes user chat data, stores conversations in a database, and generates summaries & insights using an LLM-powered summarization model.
